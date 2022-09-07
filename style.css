@@ -1,0 +1,33 @@
+.title-container {
+  border-radius: 5%;
+  background-color: #6BA8E0;
+  border-style: double;
+  height: 200px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.title {
+  color: white;
+}
+.fa-picture-o {
+  font-size: 100px;
+}
+.repo {
+  height: 900;
+  margin-top: 10px;
+}
+.upload {
+  height: 300;
+  margin-top: 10px;
+}
+.done {
+  padding-left: 24px;
+}
+.deploy {
+  width: 98%;
+}
+.img {
+  padding-left: 40px;
+}
